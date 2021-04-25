@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+}
+
+main img {
+    width: 49%;
+  }
+
+  h2 {
+    color: red;  
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  .Body {
+    background-color: black;
+      text-align: center
+  }
+
+
+  nav ul li {
+    display: inline;
+     margin: 200px;
+     margin-left: 0px;
+     padding-left: 0px;
+  }
